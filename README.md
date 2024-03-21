@@ -25,6 +25,10 @@ Fifth step
 
 The model has given us 61% accuracy and we have tested it with the mobile phone to see if it detected the signs, it did detect the images but since it has low resolution it was very difficult for it to catch it since it was going at 1fps on my mobile phone.
 
+Sixth step
+
+We use the application "Hugging Face" it gives you a model to see if it suits you with the data you have
+
 EXTRAS
 
 We have had problems downloading the files and uploading the visual code and uploading to github since having many samples in the sample set took a long time to load.
