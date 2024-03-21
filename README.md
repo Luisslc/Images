@@ -8,6 +8,10 @@ The first thing we have done is create a GitHub environment for all members of t
 Second step
 
 We have done web scraping of a Spanish sign page in Virtual Code and it seems that we were all trying to enter that page and when I tried it I got a "Connection aborted" error because the page crashed and could not be accessed.
+Hemos utilizado estas librerias:
+import requests
+from bs4 import BeautifulSoup
+import os
 
 Third step
 
